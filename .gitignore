@@ -1,0 +1,14 @@
+target/
+.idea/
+*.iml
+*.log
+
+# IntelliJ-related
+out/
+.gradle/
+build/
+
+# Maven / IntelliJ wrappers (opcjonalnie)
+.mvn/
+mvnw
+mvnw.cmd
