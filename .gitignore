@@ -8,7 +8,7 @@ out/
 .gradle/
 build/
 
-# Maven / IntelliJ wrappers (opcjonalnie)
+# Maven / IntelliJ wrappers
 .mvn/
 mvnw
 mvnw.cmd
